@@ -1,7 +1,7 @@
 # canhazdb-driver-sqlite
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/driver-sqlite)
-[![GitHub package.json version](https://img.shields.io/github/package-json/v/driver-sqlite)](https://github.com/driver-sqlite/blob/master/package.json)
-[![GitHub](https://img.shields.io/github/license/driver-sqlite)](https://github.com/driver-sqlite/blob/master/LICENSE)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/canhazdb/driver-sqlite)
+[![GitHub package.json version](https://img.shields.io/github/package-json/v/canhazdb/driver-sqlite)](https://github.com/canhazdb/driver-sqlite/blob/master/package.json)
+[![GitHub](https://img.shields.io/github/license/canhazdb/driver-sqlite)](https://github.com/canhazdb/driver-sqlite/blob/master/LICENSE)
 [![js-semistandard-style](https://img.shields.io/badge/code%20style-semistandard-brightgreen.svg)](https://github.com/standard/semistandard)
 
 A sqlite3 drivers for canhazdb.
