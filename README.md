@@ -4,7 +4,7 @@
 [![GitHub](https://img.shields.io/github/license/canhazdb/driver-sqlite)](https://github.com/canhazdb/driver-sqlite/blob/master/LICENSE)
 [![js-semistandard-style](https://img.shields.io/badge/code%20style-semistandard-brightgreen.svg)](https://github.com/standard/semistandard)
 
-A sqlite3 drivers for canhazdb.
+A sqlite3 driver for canhazdb.
 
 ### Server Via the CLI
 ```bash
