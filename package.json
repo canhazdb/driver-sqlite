@@ -1,6 +1,6 @@
 {
   "name": "canhazdb-driver-sqlite",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A sqlite3 driver for canhazdb.",
   "main": "./lib/index.js",
   "directories": {
